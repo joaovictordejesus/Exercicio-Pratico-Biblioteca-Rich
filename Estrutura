@@ -1,0 +1,9 @@
+projeto joaovictordejesus/
+├── personalizador/
+│   ├── __init__.py
+│   ├── layout.py
+│   ├── painel.py
+│   ├── progresso.py
+│   ├── estilo.py
+├── main.py
+└── requirements.txt
